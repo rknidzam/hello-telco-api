@@ -473,5 +473,6 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/```
 
-.appsettings.Development.json
-.appsettings.json
+*/appsettings.Development.json
+*/appsettings.json
+*/Properties/ServiceDependencies/hello-telco-api - Web Deploy/profile.arm.json

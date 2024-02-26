@@ -1,0 +1,6 @@
+@hello_telco_api_HostAddress = http://localhost:5106
+
+GET {{hello_telco_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
